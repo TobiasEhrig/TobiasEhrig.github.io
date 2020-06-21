@@ -10,3 +10,5 @@ Katarn was originally a member of the Galactic Empire, before becoming a mercena
 * funny
 
 > I sense a disturbance in the Force.
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTVq_dmkAl60Bm9KTsTTHB7MZEMt73-F-uBFnBoyrFK190kIGtb&usqp=CAU">
