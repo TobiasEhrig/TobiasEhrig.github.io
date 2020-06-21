@@ -8,3 +8,5 @@ Katarn was originally a member of the Galactic Empire, before becoming a mercena
 * jedi master
 * ambassador
 * funny
+
+> I sense a disturbance in the Force.
